@@ -1,0 +1,7 @@
+{
+    "name": "flickerleap/wcct2017-plugin",
+    "type": "wordpress-plugin",
+    "license": "GPL",
+    "minimum-stability": "stable",
+    "require": {}
+}
